@@ -11,8 +11,10 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avdheshupadhyay&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avdheshupadhyay&layout=compact&theme=radical)
+### 🔥 GitHub Streak & Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avdheshupadhyay&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avdheshupadhyay&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avdheshupadhyay&theme=react-dark)
+
 
 
 
