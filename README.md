@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate software engineer and an enthusiastic pro
 - **Other Tools**: Git, GitHub, VS Code  
 
 ## 💞️ Looking to Collaborate On  
-- Open-source projects involving **Web Development** or **Competitive Programming**  
+- Open-source projects involving **Full Stack Development** or **Competitive Programming**  
 - Innovative and challenging **DSA Problem-Solving** projects  
 
 ## 📫 How to Reach Me  
